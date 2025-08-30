@@ -1,0 +1,7 @@
+node_modules
+
+# emacs
+*~
+
+# Because MacOs
+.DS_Store
