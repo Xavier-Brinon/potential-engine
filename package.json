@@ -14,7 +14,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "tape *.js"
+    "build": "npx @11ty/eleventy"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2"
